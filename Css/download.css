@@ -19,3 +19,7 @@
     margin: 3px;
     color: red;
 }
+
+.container-fluid {
+    max-width: fit-content;
+}
