@@ -43,8 +43,8 @@ padding: 0  5px;
 }
 .nav-link{
     color: #D34327!important;
-    font-weight: 400px;
-    font-size: 14px;
+    font-weight: 300;
+    font-size: 12px;
 
 }
 
@@ -55,7 +55,6 @@ padding: 0  5px;
     background: #ededed;
 
 }  
-
 
 #download {
     background-color: #6b6a6a;
@@ -117,6 +116,10 @@ padding: 0  5px;
 
 }
 
+
+.card {
+    width: 80%;
+}
  .regions-search{
     width: 375px;
     height: 700px;
